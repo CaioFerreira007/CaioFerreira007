@@ -16,6 +16,8 @@ Estagiário Full Stack na IPNET by VIVO!
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -31,4 +33,4 @@ Estagiário Full Stack na IPNET by VIVO!
 
 ## 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/caio-ferreira-037820229) 
+[LinkedIn](https://linkedin.com/in/caio-ferreira-037820229)
